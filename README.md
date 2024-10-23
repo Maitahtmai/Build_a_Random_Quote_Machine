@@ -1,1 +1,1 @@
-## [A Random Code Generator](https://github.com/Maitahtmai/Build_a_Random_Quote_Machine.git)
+## [A Random Code Generator](https://maitahtmai.github.io/Build_a_Random_Quote_Machine/)
